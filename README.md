@@ -14,11 +14,11 @@ Task 2
 
 I created my digital portfolio on the following platforms:
 
-GitHub:
+GitHub: https://github.com/dakshpatni08632
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/daksh-patni-3403973b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
-Kaggle:
+Kaggle: https://www.kaggle.com/dakshpatni01
 
 Screenshots of all profiles are included in the task-2-portfolio folder.
 
